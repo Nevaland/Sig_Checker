@@ -1,0 +1,1 @@
+venv\Scripts\python.exe Sig_checker.py flag.png
